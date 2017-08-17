@@ -1,0 +1,72 @@
+#header{
+  text-align: center
+}
+
+#Container{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+ background-image: url(http://1001wallpapers.net/wp-content/uploads/2016/12/Tumblr-Computer-Wallpaper-Widescreen-X495.jpg);
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: black
+}
+
+#nav ul{
+    list-style-type: none;
+    padding:0;
+}
+
+h1,h2 {
+  margin= 0; 
+  color: white;
+  text-decoration: underline
+}
+
+#content{
+  padding:10px;
+}
+
+#nav{
+    width: 180px;
+    float: left;
+    text-decoration: underline;
+}
+
+#main{
+    width: 600px;
+    float: right;
+}
+
+#footer{
+    clear: both;
+}
+
+#nav.selected{
+    font-weight: bold;
+}
+  
+p{
+    color:white;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+elemet.style{
+  
+}
+
+li{
+  color:rgba(100, 50, 255, .8);
+}
+
+
+
+
+
